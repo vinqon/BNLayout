@@ -6,7 +6,7 @@ BNLayout a experimental project which attempts to find out a better way for layo
 ####Feature
 compared with the tranditional layout system, BNLayout help you build the UI layout more flexibly and more convenicently.
 
-######1.convenicet
+######1.convenience
 BNLayout use a new struct to specify the position and size of the UIView:
 
 	struct BNLayout {
